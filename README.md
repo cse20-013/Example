@@ -1,5 +1,5 @@
 # Example
-Spanish
+
 <!DOCTYPE>
  <html>
   <head>
